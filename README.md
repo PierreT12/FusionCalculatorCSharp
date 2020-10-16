@@ -26,3 +26,10 @@ Inherited Skills
 # Known Issue
 
 For some fusions duplicate results show up 
+
+
+# Logic and Layout Inspirations:
+
+http://www.phpsimplicity.com/heretic/  
+https://github.com/aqiu384/megaten-fusion-tool  
+https://github.com/chinhodado/persona5_calculator 
