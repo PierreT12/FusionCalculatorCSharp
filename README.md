@@ -2,7 +2,8 @@
 The C# Version of my Fusion Calculator
 
 This is a persona project that I was working on in C#. It can do a couple of basic features but needs to be cleaned up a bit.  
-I'm currently focusing on the C++ Version though. 
+I'm currently focusing on the [C++ Version](https://github.com/PierreT12/FusionCalculatorCpp) though, so if you want to see a more complete/clean version, check that one out first.  
+This isn't as well put together as that one, but it still does run and perform what I need it to do, it just includes more hotfixes than I'd like to admit.  
 
 
 # SQLite Database
