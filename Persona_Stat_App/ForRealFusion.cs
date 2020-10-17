@@ -543,7 +543,7 @@ namespace Persona_Stat_App
                 tempAddPersona = new List<Persona>();
                 temp.Add(persona1, tempAddPersona);
             }
-            //temp add is null dumbass
+            //temp add is null
             tempAddPersona.Add(persona2);
         }
 
