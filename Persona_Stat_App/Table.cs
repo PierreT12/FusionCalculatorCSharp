@@ -672,7 +672,7 @@ namespace Persona_Stat_App
                 tempAdd = new List<string>();
                 keyValuePairs.Add(v1, tempAdd);
             }
-            //temp add is null dumbass
+            //temp add is null 
             tempAdd.Add(v2);
         }
 
