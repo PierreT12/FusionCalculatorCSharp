@@ -1,5 +1,10 @@
 # FusionCalculatorCSharp
-The C# Version of my Fusion Calculator
+The __old__ C# Version of my Fusion Calculator
+ 
+ Edit:  
+ I'll no longer be using this repository for my C# Calculator please look at [this one](https://github.com/PierreT12/FusionCalcCSharpRedux) if you want to see the newest version. This one is quiet a mess and I made a lot of stupid mistakes so I'm redoing it. I'll leave this up just in case, but I've warned you, it doesn't look pretty. 
+------------------------------------------------------------------
+
 
 This is a persona project that I was working on in C#. It can do a couple of basic features but needs to be cleaned up a bit.  
 I'm currently focusing on the [C++ Version](https://github.com/PierreT12/FusionCalculatorCpp) though, so if you want to see a more complete/clean version, check that one out first.  
